@@ -13077,10 +13077,10 @@ rollup-plugin-size-snapshot@0.12.0:
     terser "^4.7.0"
     webpack "^4.43.0"
 
-rollup-plugin-strip-code@0.2.7:
-  version "0.2.7"
-  resolved "https://registry.yarnpkg.com/rollup-plugin-strip-code/-/rollup-plugin-strip-code-0.2.7.tgz#cd2763000475018a02faa0a2fca10a3d76281d96"
-  integrity sha512-+5t9u/VrHPSfiRWWKMVin+KOtFwFak337FAZxeTjxYDjB3DDoHBQRkXHQvBn713eAfW81t41mGuysqsMXiuTjw==
+rollup-plugin-strip-code@0.2.8:
+  version "0.2.8"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-strip-code/-/rollup-plugin-strip-code-0.2.8.tgz#fa9b668d468dead07e15e0fa6fc0d5927f6ff834"
+  integrity sha512-QfKPwZjBDi45Hi4tpo0385GQY57KbSoapIo+VSFuAmf3hf3ZM+SWapsehHEhe1lDfZuk1fpQW6v0058QftG+5w==
   dependencies:
     magic-string "0.25.3"
     rollup-pluginutils "2.8.1"
